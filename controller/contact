@@ -1,0 +1,9 @@
+<?php
+//framework/controller/contact.php
+class ContactController
+{
+	public function crreate()
+	{
+	echo 'Coucou';
+	}
+}
